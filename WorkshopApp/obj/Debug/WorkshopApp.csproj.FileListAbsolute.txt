@@ -1,0 +1,39 @@
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_3\WorkshopApp\WorkshopApp\bin\Debug\WorkshopApp.exe.config
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_3\WorkshopApp copy 2\WorkshopApp\bin\Debug\WorkshopApp.exe.config
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_3\WorkshopApp copy 2\WorkshopApp\obj\Debug\WorkshopApp.csprojResolveAssemblyReference.cache
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_3\WorkshopApp copy 2\WorkshopApp\obj\Debug\WorkshopApp.Form1.resources
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_3\WorkshopApp copy 2\WorkshopApp\obj\Debug\WorkshopApp.Properties.Resources.resources
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_3\WorkshopApp copy 2\WorkshopApp\obj\Debug\WorkshopApp.csproj.GenerateResource.Cache
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_3\WorkshopApp copy 2\WorkshopApp\bin\Debug\WorkshopApp.exe
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_3\WorkshopApp copy 2\WorkshopApp\bin\Debug\WorkshopApp.pdb
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_3\WorkshopApp copy 2\WorkshopApp\obj\Debug\WorkshopApp.exe
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_3\WorkshopApp copy 2\WorkshopApp\obj\Debug\WorkshopApp.pdb
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_3\WorkshopApp working without comments and int\WorkshopApp\bin\Debug\WorkshopApp.exe.config
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_3\WorkshopApp working without comments and int\WorkshopApp\obj\Debug\WorkshopApp.exe
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_3\WorkshopApp working without comments and int\WorkshopApp\obj\Debug\WorkshopApp.pdb
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_3\WorkshopApp working without comments and int\WorkshopApp\obj\Debug\WorkshopApp.csprojResolveAssemblyReference.cache
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_3\WorkshopApp working without comments and int\WorkshopApp\obj\Debug\WorkshopApp.Form1.resources
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_3\WorkshopApp working without comments and int\WorkshopApp\obj\Debug\WorkshopApp.Properties.Resources.resources
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_3\WorkshopApp working without comments and int\WorkshopApp\obj\Debug\WorkshopApp.csproj.GenerateResource.Cache
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_3\WorkshopApp working without comments and int\WorkshopApp\bin\Debug\WorkshopApp.exe
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_3\WorkshopApp working without comments and int\WorkshopApp\bin\Debug\WorkshopApp.pdb
+C:\Users\Gamme\Desktop\WorkshopAp\WorkshopApp\bin\Debug\WorkshopApp.exe.config
+C:\Users\Gamme\Desktop\WorkshopAp\WorkshopApp\bin\Debug\WorkshopApp.exe
+C:\Users\Gamme\Desktop\WorkshopAp\WorkshopApp\bin\Debug\WorkshopApp.pdb
+C:\Users\Gamme\Desktop\WorkshopAp\WorkshopApp\obj\Debug\WorkshopApp.csproj.AssemblyReference.cache
+C:\Users\Gamme\Desktop\WorkshopAp\WorkshopApp\obj\Debug\WorkshopApp.Form1.resources
+C:\Users\Gamme\Desktop\WorkshopAp\WorkshopApp\obj\Debug\WorkshopApp.Properties.Resources.resources
+C:\Users\Gamme\Desktop\WorkshopAp\WorkshopApp\obj\Debug\WorkshopApp.csproj.GenerateResource.cache
+C:\Users\Gamme\Desktop\WorkshopAp\WorkshopApp\obj\Debug\WorkshopApp.csproj.CoreCompileInputs.cache
+C:\Users\Gamme\Desktop\WorkshopAp\WorkshopApp\obj\Debug\WorkshopApp.exe
+C:\Users\Gamme\Desktop\WorkshopAp\WorkshopApp\obj\Debug\WorkshopApp.pdb
+C:\Users\Gamme\Desktop\WorkshopApp\bin\Debug\WorkshopApp.exe.config
+C:\Users\Gamme\Desktop\WorkshopApp\bin\Debug\WorkshopApp.exe
+C:\Users\Gamme\Desktop\WorkshopApp\bin\Debug\WorkshopApp.pdb
+C:\Users\Gamme\Desktop\WorkshopApp\obj\Debug\WorkshopApp.csproj.AssemblyReference.cache
+C:\Users\Gamme\Desktop\WorkshopApp\obj\Debug\WorkshopApp.Form1.resources
+C:\Users\Gamme\Desktop\WorkshopApp\obj\Debug\WorkshopApp.Properties.Resources.resources
+C:\Users\Gamme\Desktop\WorkshopApp\obj\Debug\WorkshopApp.csproj.GenerateResource.cache
+C:\Users\Gamme\Desktop\WorkshopApp\obj\Debug\WorkshopApp.csproj.CoreCompileInputs.cache
+C:\Users\Gamme\Desktop\WorkshopApp\obj\Debug\WorkshopApp.exe
+C:\Users\Gamme\Desktop\WorkshopApp\obj\Debug\WorkshopApp.pdb
